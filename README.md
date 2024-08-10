@@ -5,7 +5,7 @@
 
 💻 Personal Touches & Improvements:
 
-⭐ Error Handling: I added a functionality to show a "City not found" message if the searched city isn't available, ensuring users never see blank or incorrect data.
+⭐ Error Handling: I added a functionality to show a "City not found" message if the searched city isn't available, ensuring users never see blank or incorrect data.<br>
 ⭐ Seamless Tab Switching: Fixed an issue where switching tabs sometimes resulted in blank data. Now, the app maintains separate data states for each tab, guaranteeing the correct weather data is always displayed without the need to reload the page.
 <br>
 <br>
