@@ -10,6 +10,6 @@
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://ayushojhabxr.github.io/Weather_App/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://weather-app-zeta-eight-15.vercel.app/">**Visit Now** 🚀</a>
 
 <br>
